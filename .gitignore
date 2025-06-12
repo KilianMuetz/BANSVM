@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# MacOS metadata
+.DS_Store
+
+# Logs and temp
+*.log
+*.tmp
+*.bakcd
